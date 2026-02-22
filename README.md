@@ -4,22 +4,20 @@ A React-based movie browsing application that allows users to explore movies and
 
 🚀 Features
 
-Browse and display movie cards
+1. Browse and display movie cards
 
-Add and remove movies from Favorites
+2. Add and remove movies from Favorites
 
-Global state management using Context API
+3. Global state management using Context API
 
-Reusable components and modular structure
+4. Reusable components and modular structure
 
-Responsive and dynamic UI updates
+5. Responsive and dynamic UI updates
 
 🛠️ Tech Stack
 
-React
-
-Vite
-
-JavaScript (ES6+)
-
-CSS
+1. React
+2. Vite
+3. JavaScript (ES6+)
+4. CSS
+5. API integration
